@@ -2,5 +2,8 @@
   "name": "test-module",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "test-shared-module": "bulentv/test-shared-module#semver:1.0.0"
+  }
 }
