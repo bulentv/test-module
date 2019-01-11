@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"test-shared-module@bulentv/test-shared-module#semver:1.0.0":
-  version "1.0.0"
-  resolved "https://codeload.github.com/bulentv/test-shared-module/tar.gz/f9d304ee21bd66470b5edc81400a0430e86019d8"
+"test-shared-module@bulentv/test-shared-module#semver:^1.0.0":
+  version "1.0.1"
+  resolved "https://codeload.github.com/bulentv/test-shared-module/tar.gz/62f4ccb5a503c8f3dd5f11f31cd2c677c7dae722"
